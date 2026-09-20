@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__c1919c33-a07c-497a-9494-4da28a11c16d__get_me",
+      "Bash(cp \"/Users/park.yang/Documents/Claude/RingCentral Partner API - html/rc-license-provisioner.html\" \"/Users/park.yang/Documents/Claude/RingCentral Partner API - html - public/rc-license-provisioner.html\")",
+      "Bash(cp \"/Users/park.yang/Documents/Claude/RingCentral Partner API - html/README.md\" \"/Users/park.yang/Documents/Claude/RingCentral Partner API - html - public/README.md\")"
+    ]
+  }
+}
